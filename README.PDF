@@ -1,0 +1,13 @@
+# Trabalho Calculadora
+
+- Esse projeto vou desenvolver uma calculadora usando a linguagem python
+
+- Primeiro criei duas variaveis inputadas para receber e armazenar os valores via prompt.
+
+- Após criei um variavel para cada opreção matemática e atribui os valores digitados nelas.
+
+- O projeto vai mostrar todas as quatros operações matemáticas (Adição, Subtração, Multiplicação, Divisão)
+
+- Antes de cada resultado será impresso um resultado referente as operações.
+
+ 
